@@ -4,7 +4,6 @@ Full‑stack food ordering platform with a Web client (React + Vite) and a Mobil
 
 ### Project Information
 
-- **Timeline:** Completed in 1 month
 - **Team:**
   - Hùng - Website (React + Vite)
   - Hậu - Mobile (Expo/React Native)
